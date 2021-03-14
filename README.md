@@ -1,6 +1,8 @@
 # weakest_mage
 Exploring web scraping.
-I want to show chapter title, chapter number, and link.
 Currently it shows chapter title and number.
-Can't seem to get url links. Tried using html tags but couldn't exactly get it to work.
-Sorry for the messy code. Just doing this for fun.
+Next, I want to align the text in the columns to the left and expand the column width.
+Eventually, I would like to run the script once every hour, even when my computer is off. 
+I have an idea on how to start it, but it's something new to me.
+Also would like to get an email notification when a new chapter is released.
+
